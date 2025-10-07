@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../LinguaConnect/.git"
+		},
+		{
+			"path": "../../LinguaConnect/.local"
+		},
+		{
+			"path": "../../LinguaConnect/server"
+		},
+		{
+			"path": "../../LinguaConnect/client"
+		},
+		{
+			"path": "../../LinguaConnect/shared"
+		}
+	],
+	"settings": {}
+}
